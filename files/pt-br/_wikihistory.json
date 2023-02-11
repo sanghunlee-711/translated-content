@@ -905,11 +905,52 @@
     "modified": "2020-07-16T22:35:26.243Z",
     "contributors": ["ManoMartins", "mrmorais", "rudolfo"]
   },
-  "Learn/Common_questions/How_do_you_host_your_website_on_Google_App_Engine": {
+  "Learn/Common_questions/Design_and_accessibility/Thinking_before_coding": {
+    "modified": "2020-07-16T22:35:34.836Z",
+    "contributors": ["firenhite", "wcqueiroz"]
+  },
+  "Learn/Common_questions/Tools_and_setup/How_do_you_host_your_website_on_Google_App_Engine": {
     "modified": "2020-07-16T22:35:52.368Z",
     "contributors": ["Felipe-GB", "wcqueiroz"]
   },
-  "Learn/Common_questions/How_does_the_Internet_work": {
+  "Learn/Common_questions/Tools_and_setup/How_much_does_it_cost": {
+    "modified": "2020-07-16T22:35:45.917Z",
+    "contributors": ["wcqueiroz"]
+  },
+  "Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server": {
+    "modified": "2020-11-22T03:28:22.451Z",
+    "contributors": ["kvojps"]
+  },
+  "Learn/Common_questions/Tools_and_setup/Using_Github_pages": {
+    "modified": "2020-07-16T22:35:51.948Z",
+    "contributors": ["Celio1234"]
+  },
+  "Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools": {
+    "modified": "2020-07-16T22:35:47.861Z",
+    "contributors": [
+      "gilmargn",
+      "italorangel",
+      "ocaccy",
+      "7aylors",
+      "rubenfaria"
+    ]
+  },
+  "Learn/Common_questions/Tools_and_setup/What_software_do_I_need": {
+    "modified": "2020-07-16T22:35:33.538Z",
+    "contributors": ["sredoja"]
+  },
+  "Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server": {
+    "modified": "2020-07-16T22:35:53.295Z",
+    "contributors": [
+      "RenanArques",
+      "wcqueiroz",
+      "SphinxKnight",
+      "linoveloso",
+      "vgabrielps",
+      "Edusar"
+    ]
+  },
+  "Learn/Common_questions/Web_mechanics/How_does_the_Internet_work": {
     "modified": "2020-07-16T22:35:37.501Z",
     "contributors": [
       "firenhite",
@@ -920,11 +961,7 @@
       "mrmorais"
     ]
   },
-  "Learn/Common_questions/How_much_does_it_cost": {
-    "modified": "2020-07-16T22:35:45.917Z",
-    "contributors": ["wcqueiroz"]
-  },
-  "Learn/Common_questions/Pages_sites_servers_and_search_engines": {
+  "Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines": {
     "modified": "2020-07-16T22:35:40.295Z",
     "contributors": [
       "Magela",
@@ -935,37 +972,15 @@
       "danielbrai"
     ]
   },
-  "Learn/Common_questions/Thinking_before_coding": {
-    "modified": "2020-07-16T22:35:34.836Z",
-    "contributors": ["firenhite", "wcqueiroz"]
-  },
-  "Learn/Common_questions/Upload_files_to_a_web_server": {
-    "modified": "2020-11-22T03:28:22.451Z",
-    "contributors": ["kvojps"]
-  },
-  "Learn/Common_questions/Using_Github_pages": {
-    "modified": "2020-07-16T22:35:51.948Z",
-    "contributors": ["Celio1234"]
-  },
-  "Learn/Common_questions/What_are_browser_developer_tools": {
-    "modified": "2020-07-16T22:35:47.861Z",
-    "contributors": [
-      "gilmargn",
-      "italorangel",
-      "ocaccy",
-      "7aylors",
-      "rubenfaria"
-    ]
-  },
-  "Learn/Common_questions/What_are_hyperlinks": {
+  "Learn/Common_questions/Web_mechanics/What_are_hyperlinks": {
     "modified": "2020-09-14T13:55:12.468Z",
     "contributors": ["lathne"]
   },
-  "Learn/Common_questions/What_is_a_domain_name": {
+  "Learn/Common_questions/Web_mechanics/What_is_a_domain_name": {
     "modified": "2020-07-16T22:35:44.455Z",
     "contributors": ["wcqueiroz", "Amarildo", "clstrni"]
   },
-  "Learn/Common_questions/What_is_a_web_server": {
+  "Learn/Common_questions/Web_mechanics/What_is_a_web_server": {
     "modified": "2020-07-16T22:35:31.716Z",
     "contributors": [
       "wcqueiroz",
@@ -974,21 +989,6 @@
       "lfpelison",
       "kleinerbr",
       "linielson"
-    ]
-  },
-  "Learn/Common_questions/What_software_do_I_need": {
-    "modified": "2020-07-16T22:35:33.538Z",
-    "contributors": ["sredoja"]
-  },
-  "Learn/Common_questions/set_up_a_local_testing_server": {
-    "modified": "2020-07-16T22:35:53.295Z",
-    "contributors": [
-      "RenanArques",
-      "wcqueiroz",
-      "SphinxKnight",
-      "linoveloso",
-      "vgabrielps",
-      "Edusar"
     ]
   },
   "Learn/Forms": {

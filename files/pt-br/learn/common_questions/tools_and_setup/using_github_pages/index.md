@@ -1,6 +1,7 @@
 ---
 title: How do I use GitHub Pages?
-slug: Learn/Common_questions/Using_Github_pages
+slug: Learn/Common_questions/Tools_and_setup/Using_Github_pages
+original_slug: Learn/Common_questions/Using_Github_pages
 ---
 
 [GitHub](https://github.com/) is a "social coding" site. It allows you to upload code repositories for
